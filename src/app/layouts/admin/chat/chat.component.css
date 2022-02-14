@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+aside.pcoded-slider.ng-sidebar {
+  top: 56px;
+}
+
+.slimscroll-wrapper, .scroll-window {
+  width: 100% !important;
+}
+
+.userlist-box.show {
+  display: -webkit-box;
+}
+
+.userlist-box.hide {
+  display: none;
+}
+.container {
+  height: 100px;
+  padding: 0;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+}

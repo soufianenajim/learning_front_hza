@@ -1,0 +1,24 @@
+.mat-stepper-horizontal {
+    margin-top: 8px;
+  }
+  
+  .mat-form-field {
+    margin-top: 16px;
+  }
+  .mat-checkbox {
+    color: rgb(0,178,0)!important;
+    
+    }
+
+        .mat-ink-ripple{
+            background-color: rgba(0, 178, 0, .26);
+        }
+        .alert{
+          background-color: #f5f5f5e7;
+           border: 1px solid transparent;
+           font-weight: bold;
+           margin: 0 0 9px;
+           overflow-y: hidden;
+           padding: 4px 4px 4px 8px;
+           max-width: 100%;
+       }  
